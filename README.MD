@@ -1,7 +1,7 @@
 # How to run the server
 
 ## On server's CLI:
-streamlit run ttv.py
+nohup streamlit run ttv.py > output.log 2>&1 &
 
 ### ======
 
